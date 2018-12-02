@@ -2,9 +2,25 @@
 
 Notes and tools that don't fit into other notes.
 
+* [Other notes](#other-notes)
 * [Genes](#genes)
 * [Text mining](#text-mining)
 
+
+## Other notes
+
+- [Lists of bioinformatics, biostatistics, data science, machine learning resources](https://github.com/mdozmorov/blogs)
+- [Cancer_notes](https://github.com/mdozmorov/Cancer_notes)
+- [Immuno_notes](https://github.com/mdozmorov/Immuno_notes)
+- [RNA-seq_notes](https://github.com/mdozmorov/RNA-seq_notes)
+- [scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes)
+- [HiC_data](https://github.com/mdozmorov/HiC_data)
+- [HiC_tools](https://github.com/mdozmorov/HiC_tools)
+- [ChIP-seq_notes](https://github.com/mdozmorov/ChIP-seq_notes)
+- [DNA_notes](https://github.com/mdozmorov/DNA_notes)
+- [SNP_notes](https://github.com/mdozmorov/SNP_notes)
+- [Brain_genomic_data](https://github.com/mdozmorov/Brain_genomic_data)
+- [Jobs_notes](https://github.com/mdozmorov/Jobs_notes)
 
 ## Genes
 
