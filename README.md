@@ -9,7 +9,7 @@ Notes and tools that don't fit into other notes.
 ## Genes
 
 - List of gene lists for genomic analyses. https://github.com/macarthur-lab/gene_lists
-
+- Python package for interacting with SRAdb and downloading datasets from SRA, https://github.com/saketkc/pysradb, documentation, https://www.saket-choudhary.me/pysradb/
 
 ## Text mining
 
