@@ -28,6 +28,8 @@ Notes and tools that don't fit into other notes.
 - Python package for interacting with SRAdb and downloading datasets from SRA, https://github.com/saketkc/pysradb, documentation, https://www.saket-choudhary.me/pysradb/
 - Extract 3'UTR, 5'UTR, CDS, Promoter, Genes, Introns etc from GTF files, https://github.com/saketkc/gencode_regions
 - `CHESS` - database of novel genes, identified from GTeX data, protein-coding and lncRNA. http://ccb.jhu.edu/chess/
+- GTEx Visualizations https://gtexportal.org, https://github.com/broadinstitute/gtex-viz
+
 
 ## Text mining
 
