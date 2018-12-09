@@ -20,6 +20,7 @@ Notes and tools that don't fit into other notes.
 - [DNA_notes](https://github.com/mdozmorov/DNA_notes)
 - [SNP_notes](https://github.com/mdozmorov/SNP_notes)
 - [Brain_genomic_data](https://github.com/mdozmorov/Brain_genomic_data)
+- [Microbiome_notes](https://github.com/mdozmorov/Microbiome_notes)
 - [Jobs_notes](https://github.com/mdozmorov/Jobs_notes)
 
 ## Genes
