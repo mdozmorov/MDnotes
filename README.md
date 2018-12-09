@@ -30,7 +30,7 @@ Notes and tools that don't fit into other notes.
 - Extract intron boundaries per transcript, https://gist.github.com/hiraksarkar/ce8a71a6953cb4e9823d868c283bf99d
 - `CHESS` - database of novel genes, identified from GTeX data, protein-coding and lncRNA. http://ccb.jhu.edu/chess/
 - GTEx Visualizations https://gtexportal.org, https://github.com/broadinstitute/gtex-viz
-
+- Chromosome visualization with D3.js, ideogram. https://github.com/eweitz/ideogram. Wrappers for various languages, including R, https://github.com/freestatman/ideogRam. Examples, https://eweitz.github.io/ideogram/
 
 ## Text mining
 
