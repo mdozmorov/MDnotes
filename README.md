@@ -4,6 +4,7 @@ Notes and tools that don't fit into other notes.
 
 * [Other notes](#other-notes)
 * [Genes](#genes)
+* [Sequencing](#sequencing)
 * [Text mining](#text-mining)
 
 
@@ -32,6 +33,10 @@ Notes and tools that don't fit into other notes.
 - `CHESS` - database of novel genes, identified from GTeX data, protein-coding and lncRNA. http://ccb.jhu.edu/chess/
 - GTEx Visualizations https://gtexportal.org, https://github.com/broadinstitute/gtex-viz
 - Chromosome visualization with D3.js, ideogram. https://github.com/eweitz/ideogram. Wrappers for various languages, including R, https://github.com/freestatman/ideogRam. Examples, https://eweitz.github.io/ideogram/
+
+## Sequencing
+
+- `bamcov`, Quickly calculate and visualize sequence coverage in alignment files in command line. https://github.com/fbreitwieser/bamcov
 
 ## Text mining
 
