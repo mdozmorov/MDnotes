@@ -7,6 +7,7 @@ Notes and tools that don't fit into other notes.
 * [Sequencing](#sequencing)
 * [Text mining](#text-mining)
 * [Integrative](#integrative)
+* [Machine learning](#machine-learning)
 * [Teaching](#teaching)
 
 
@@ -51,6 +52,12 @@ Notes and tools that don't fit into other notes.
 
 - `JIVE` - Joint and Individual Variation Explained. Decomposition of (X) multiple (i) omics datasets into three terms: low-rank (constrained) matrices capturing joint variation (J), plus structured variation (A_i) and residual noise. Data are row-centered and scaled by its total variation. Main constrain: the rows of joint and individual matrices should be orthogonal. Estimate matrices by iteratively minimizing ||R||^2 (R=X-J-A). Relationship to PCA, CCA, PLS. Illustrated on TCGA GBM gene expression, methylation, and miRNA data, with interpretation. Matlab code https://genome.unc.edu/jive/, r.jive package, https://cran.r-project.org/web/packages/r.jive/vignettes/BRCA_Example.html
     - Lock, Eric F., Katherine A. Hoadley, J. S. Marron, and Andrew B. Nobel. “JOINT AND INDIVIDUAL VARIATION EXPLAINED (JIVE) FOR INTEGRATED ANALYSIS OF MULTIPLE DATA TYPES.” The Annals of Applied Statistics 7, no. 1 (March 1, 2013): 523–42. https://doi.org/10.1214/12-AOAS597.
+
+## Machine learning
+
+- `maui` - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. https://github.com/bimsbbioinfo/maui
+    - Ronen, Jonathan, Sikander Hayat, and Altuna Akalin. “Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning,” November 12, 2018. https://doi.org/10.1101/464743.
+    
 
 ## Teaching
 
