@@ -57,7 +57,10 @@ Notes and tools that don't fit into other notes.
 
 - `maui` - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. https://github.com/bimsbbioinfo/maui
     - Ronen, Jonathan, Sikander Hayat, and Altuna Akalin. “Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning,” November 12, 2018. https://doi.org/10.1101/464743.
-    
+
+- `VASC` - deep variational autoencoder for scRNA-seq data for dimensionality reduction and visualization. Tested on twenty datasets vs PCA, tSNE, ZIFA, and SIMLR. Four metrics to assess clustering performance: NMI (normalized mutual information score), ARI (adjusted rand index), HOM (homogeneity) and COM (completeness). No filtering, only log transformation. Keras implementation. Datasets https://hemberg-lab.github.io/scRNA.seq.datasets/, and the code https://github.com/wang-research/VASC
+    - Wang, Dongfang, and Jin Gu. “VASC: Dimension Reduction and Visualization of Single Cell RNA Sequencing Data by Deep Variational Autoencoder,” October 6, 2017. https://doi.org/10.1101/199315. 
+
 
 ## Teaching
 
