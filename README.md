@@ -23,6 +23,7 @@ Notes and tools that don't fit into other notes.
 - [ChIP-seq_notes](https://github.com/mdozmorov/ChIP-seq_notes)
 - [DNA_notes](https://github.com/mdozmorov/DNA_notes)
 - [SNP_notes](https://github.com/mdozmorov/SNP_notes)
+- [Methylation_notes](https://github.com/mdozmorov/Methylation_notes)
 - [Brain_genomic_data](https://github.com/mdozmorov/Brain_genomic_data)
 - [Microbiome_notes](https://github.com/mdozmorov/Microbiome_notes)
 - [Grant_notes](https://github.com/mdozmorov/Grants_notes)
