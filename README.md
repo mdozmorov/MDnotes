@@ -9,7 +9,7 @@ Notes and tools that don't fit into other notes.
 * [Integrative](#integrative)
 * [Machine learning](#machine-learning)
 * [Teaching](#teaching)
-
+* [Misc](#misc)
 
 ## Other notes
 
@@ -68,3 +68,8 @@ Notes and tools that don't fit into other notes.
 - Free online data science environment, Jupyter notebooks for Python, R, Julia etc. https://notebooks.rmotr.com/. An extension to add exercises with hidden answers: https://github.com/rmotr/jupyterlab-solutions
 
 - GitHub Classroom tutorials for teachers https://github.com/jfiksel/github-classroom-for-teachers and students https://github.com/jfiksel/github-classroom-for-students
+
+
+## Misc
+
+- Using permutations, the recommended threshold was recently increased to $2.4 \times 10^{-7}$ for the 450K array and $3.6 \times 10^{-8}$ for genome-wide measurements. From Saffari A, Silver MJ, Zavattari P, Moi L, Columbano A, Meaburn EL, et al. Estimation of a significance threshold for epigenome-wide association studies. Genet Epidemiol. 2018;42(1):20-33.
