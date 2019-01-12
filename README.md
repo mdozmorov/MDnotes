@@ -79,6 +79,8 @@ Notes and tools that don't fit into other notes.
 
 -  Inter-university Consortium for Political and Social Research (ICPSR) provides leadership and training in data access, curation, and methods of analysis for the social science research community. https://www.icpsr.umich.edu/icpsrweb/ICPSR/
 
+- Google dataset search, https://toolbox.google.com/datasetsearch. Overview, https://www.blog.google/products/search/making-it-easier-discover-datasets/
+
 - U.S. General Services Administration. 2018. The home of the U.S. Government’s open data. https://www.data.gov/
 
 ## Misc
