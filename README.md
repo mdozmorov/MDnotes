@@ -9,6 +9,7 @@ Notes and tools that don't fit into other notes.
 * [Integrative](#integrative)
 * [Machine learning](#machine-learning)
 * [Teaching](#teaching)
+* [Data](#data)
 * [Misc](#misc)
 
 ## Other notes
@@ -70,6 +71,11 @@ Notes and tools that don't fit into other notes.
 - Free online data science environment, Jupyter notebooks for Python, R, Julia etc. https://notebooks.rmotr.com/. An extension to add exercises with hidden answers: https://github.com/rmotr/jupyterlab-solutions
 
 - GitHub Classroom tutorials for teachers https://github.com/jfiksel/github-classroom-for-teachers and students https://github.com/jfiksel/github-classroom-for-students
+
+
+## Data
+
+- CORGIS Datasets Project - The Collection of Really Great, Interesting, Situated Datasets. https://think.cs.vt.edu/corgis/
 
 
 ## Misc
