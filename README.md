@@ -77,6 +77,8 @@ Notes and tools that don't fit into other notes.
 
 - CORGIS Datasets Project - The Collection of Really Great, Interesting, Situated Datasets. https://think.cs.vt.edu/corgis/
 
+-  Inter-university Consortium for Political and Social Research (ICPSR) provides leadership and training in data access, curation, and methods of analysis for the social science research community. https://www.icpsr.umich.edu/icpsrweb/ICPSR/
+
 - U.S. General Services Administration. 2018. The home of the U.S. Government’s open data. https://www.data.gov/
 
 ## Misc
