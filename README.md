@@ -63,7 +63,7 @@ Notes and tools that don't fit into other notes.
 - `maui` - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. https://github.com/bimsbbioinfo/maui
     - Ronen, Jonathan, Sikander Hayat, and Altuna Akalin. “Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning,” November 12, 2018. https://doi.org/10.1101/464743.
 
-
+- "Gradient Boosting Essentials in R Using XGBOOST", http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/
 
 
 ## Teaching
