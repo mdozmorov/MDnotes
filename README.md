@@ -44,6 +44,8 @@ Notes and tools that don't fit into other notes.
 
 ## Sequencing
 
+- `adapters` - Adapters for trimming. https://github.com/stephenturner/adapters
+
 - `bamcov`, Quickly calculate and visualize sequence coverage in alignment files in command line. https://github.com/fbreitwieser/bamcov
 
 ## Text mining
