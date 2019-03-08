@@ -2,7 +2,7 @@
 
 Notes and tools that don't fit into other notes.
 
-* [Other notes](#other-notes)
+* [All notes](#all-notes)
 * [Genes](#genes)
 * [Sequencing](#sequencing)
 * [Text mining](#text-mining)
@@ -12,22 +12,25 @@ Notes and tools that don't fit into other notes.
 * [Data](#data)
 * [Misc](#misc)
 
-## Other notes
+## All notes
 
 - [Lists of bioinformatics, biostatistics, data science, machine learning resources](https://github.com/mdozmorov/blogs)
+- [Brain_genomic_data](https://github.com/mdozmorov/Brain_genomic_data)
 - [Cancer_notes](https://github.com/mdozmorov/Cancer_notes)
-- [Immuno_notes](https://github.com/mdozmorov/Immuno_notes)
-- [RNA-seq_notes](https://github.com/mdozmorov/RNA-seq_notes)
-- [scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes)
-- [HiC_data](https://github.com/mdozmorov/HiC_data)
-- [HiC_tools](https://github.com/mdozmorov/HiC_tools)
 - [ChIP-seq_notes](https://github.com/mdozmorov/ChIP-seq_notes)
 - [DNA_notes](https://github.com/mdozmorov/DNA_notes)
-- [SNP_notes](https://github.com/mdozmorov/SNP_notes)
+- [GWAS notes](https://github.com/mdozmorov/gwas2bed)
+- [HiC_data](https://github.com/mdozmorov/HiC_data)
+- [HiC_tools](https://github.com/mdozmorov/HiC_tools)
+- [Immuno_notes](https://github.com/mdozmorov/Immuno_notes)
 - [Methylation_notes](https://github.com/mdozmorov/Methylation_notes)
-- [Brain_genomic_data](https://github.com/mdozmorov/Brain_genomic_data)
 - [Microbiome_notes](https://github.com/mdozmorov/Microbiome_notes)
+- [RNA-seq_notes](https://github.com/mdozmorov/RNA-seq_notes)
+- [scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes)
+- [SNP_notes](https://github.com/mdozmorov/SNP_notes)
+
 - [Grant_notes](https://github.com/mdozmorov/Grants_notes)
+- [Conference_notes](https://github.com/mdozmorov/Conference_notes)
 - [Jobs_notes](https://github.com/mdozmorov/Jobs_notes)
 
 ## Genes
