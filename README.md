@@ -6,6 +6,7 @@ Notes and tools that don't fit into other notes.
 * [Genes](#genes)
 * [Sequencing](#sequencing)
 * [Text mining](#text-mining)
+* [Clustering](#clustering)
 * [Integrative](#integrative)
 * [Machine learning](#machine-learning)
 * [Teaching](#teaching)
@@ -63,6 +64,11 @@ Notes and tools that don't fit into other notes.
     - Crisan, Anamaria, Tamara Munzner, and Jennifer L Gardy. “Adjutant: An R-Based Tool to Support Topic Discovery for Systematic and Literature Reviews.” Edited by Jonathan Wren. Bioinformatics, August 23, 2018. https://doi.org/10.1093/bioinformatics/bty722.
 
 - Where to get Twitter data for academic research, blog post by Justin Littman, https://gwu-libraries.github.io/sfm-ui/posts/2017-09-14-twitter-data. Collecting, Analysing and Sharing Twitter Data, blog post by Serah Rono, http://okfnlabs.org/blog/2018/03/08/open-data-day-tweets.html
+
+## Clustering
+
+- `Clust` - Python script for gene clustering without strict requirement of all genes being assigned to clusters. Also, clustering across multiple datasets to find similar patterns. Timecourse clustering. Outperforms seven clustering techniques (cross-clustering, k-means, SOM, MCL, HC, Click, WGCNA) using seven metrics (Davies-Bouldin, BIC, silhouette, Calinski-Harabasz, Ball-Hall, Xu, within-between indices). https://github.com/BaselAbujamous/clust
+    - Abu-Jamous, Basel, and Steven Kelly. “Clust: Automatic Extraction of Optimal Co-Expressed Gene Clusters from Gene Expression Data.” Genome Biology 19, no. 1 (December 2018). https://doi.org/10.1186/s13059-018-1536-8.
 
 
 ## Integrative
