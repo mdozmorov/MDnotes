@@ -9,6 +9,7 @@ Notes and tools that don't fit into other notes.
 * [Clustering](#clustering)
 * [Integrative](#integrative)
 * [Machine learning](#machine-learning)
+* [Image analysis](#image-analysis)
 * [Teaching](#teaching)
 * [Data](#data)
 * [Misc](#misc)
@@ -86,6 +87,10 @@ Notes and tools that don't fit into other notes.
     - Ronen, Jonathan, Sikander Hayat, and Altuna Akalin. “Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning,” November 12, 2018. https://doi.org/10.1101/464743.
 
 - "Gradient Boosting Essentials in R Using XGBOOST", http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/
+
+## Image analysis
+
+- The Engauge Digitizer tool accepts image files (like PNG, JPEG and TIFF) containing graphs, and recovers the data points from those graphs. http://markummitchell.github.io/engauge-digitizer/
 
 
 ## Teaching
