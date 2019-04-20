@@ -45,6 +45,7 @@ Notes and tools that don't fit into other notes.
 - GTEx Visualizations https://gtexportal.org, https://github.com/broadinstitute/gtex-viz
 - Chromosome visualization with D3.js, ideogram. https://github.com/eweitz/ideogram. Wrappers for various languages, including R, https://github.com/freestatman/ideogRam. Examples, https://eweitz.github.io/ideogram/
 - OGEE, Online GEne Essentiality database for multiple organisms, including human and mouse. http://ogee.medgenius.info/browse/
+- HGNChelper - Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols. https://waldronlab.io/HGNChelper/
 
 
 ## Sequencing
