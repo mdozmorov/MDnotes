@@ -119,3 +119,5 @@ Notes and tools that don't fit into other notes.
 - `philentropy`: Similarity and Distance Quantification Between Probability Functions. Computes 46 optimized distance and similarity measures for comparing probability functions. https://cran.r-project.org/web/packages/philentropy/index.html
 
 - Project documentation with Markdown. http://www.mkdocs.org, GitHub, https://github.com/mkdocs/mkdocs/
+
+- `karyoploteR` - An R/Bioconductor package to plot arbitrary data along the genome. https://github.com/bernatgel/karyoploteR
