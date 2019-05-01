@@ -57,6 +57,7 @@ Notes and tools that don't fit into other notes.
 - `bamcov`, Quickly calculate and visualize sequence coverage in alignment files in command line. https://github.com/fbreitwieser/bamcov
 
 - `indexcov` - Quickly estimate coverage from a whole-genome bam or cram index. https://github.com/brentp/goleft/tree/master/indexcov
+- `covviz` - calculate and view coverage based variation, demo at https://brwnj.github.io/covviz/. https://github.com/brwnj/covviz
 
 - `fastq-pair` - Match up paired end fastq files quickly and efficiently. https://github.com/linsalrob/fastq-pair
 
