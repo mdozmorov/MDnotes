@@ -46,7 +46,7 @@ Notes and tools that don't fit into other notes.
 - Chromosome visualization with D3.js, ideogram. https://github.com/eweitz/ideogram. Wrappers for various languages, including R, https://github.com/freestatman/ideogRam. Examples, https://eweitz.github.io/ideogram/
 - OGEE, Online GEne Essentiality database for multiple organisms, including human and mouse. http://ogee.medgenius.info/browse/
 - HGNChelper - Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols. https://waldronlab.io/HGNChelper/
-
+- Enhancer-promoter (EP) pairs from Thurman et al., (2012) were obtained from: ftp://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/dhs_gene_connectivity/genomewideCorrs_above0.7_promoterPlusMinus500kb_withGeneNames_32celltypeCategories.bed8.gz
 
 ## Sequencing
 
@@ -121,4 +121,3 @@ Notes and tools that don't fit into other notes.
 
 - Project documentation with Markdown. http://www.mkdocs.org, GitHub, https://github.com/mkdocs/mkdocs/
 
-- `karyoploteR` - An R/Bioconductor package to plot arbitrary data along the genome. https://github.com/bernatgel/karyoploteR
