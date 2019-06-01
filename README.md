@@ -48,7 +48,15 @@ Notes and tools that don't fit into other notes.
 - HGNChelper - Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols. https://waldronlab.io/HGNChelper/
 - Enhancer-promoter (EP) pairs from Thurman et al., (2012) were obtained from: ftp://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/dhs_gene_connectivity/genomewideCorrs_above0.7_promoterPlusMinus500kb_withGeneNames_32celltypeCategories.bed8.gz
 
+
+## miRNA
+
+- http://www.pharmaco-mir.org/ - miRNA-drug associations
+
+
 ## Sequencing
+
+- Which human reference genome to use? https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use
 
 - Long list of bioinformatics tools developed by IHEC Int'l Human Epigenome Consortium researchers, http://ihec-epigenomes.org/research/tools/
 
