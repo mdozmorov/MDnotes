@@ -129,3 +129,5 @@ Notes and tools that don't fit into other notes.
 
 - Project documentation with Markdown. http://www.mkdocs.org, GitHub, https://github.com/mkdocs/mkdocs/
 
+- https://goodekat.github.io/ggResidpanel/ - ggResidpanel is an R package for creating panels of diagnostic plots for a model using ggplot2 and interactive versions of the plots using plotly.
+
