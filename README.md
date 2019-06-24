@@ -11,6 +11,8 @@ Notes and tools that don't fit into other notes.
 * [Machine learning](#machine-learning)
 * [Image analysis](#image-analysis)
 * [Teaching](#teaching)
+* [Lab notes](#lab-notes)
+  * [Notes from Jeff Leek](#notes-from-jeff-leek)
 * [Data](#data)
 * [Misc](#misc)
 
@@ -113,6 +115,19 @@ Notes and tools that don't fit into other notes.
 - GitHub Classroom tutorials for teachers https://github.com/jfiksel/github-classroom-for-teachers and students https://github.com/jfiksel/github-classroom-for-students
 
 - RStudio Cloud - shared projects, assignments, private spaces. Guide, https://rstudio.cloud/learn/guide, and the main page, https://rstudio.cloud/
+
+## Lab notes
+
+### Notes from Jeff Leek
+
+- Writing your first academic paper, https://github.com/jtleek/firstpaper
+
+- Reading academic papers, https://github.com/jtleek/readingpapers
+
+- The Leek group guide to genomics papers, https://github.com/jtleek/genomicspapers
+
+- Writing reviews of academic papers, https://github.com/jtleek/reviews
+
 
 ## Data
 
