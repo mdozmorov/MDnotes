@@ -139,6 +139,8 @@ Notes and tools that don't fit into other notes.
 
 - U.S. General Services Administration. 2018. The home of the U.S. Government’s open data. https://www.data.gov/
 
+- `PharmacoGx` - Analysis of Large-Scale Pharmacogenomic Data, https://bioconductor.org/packages/release/bioc/html/PharmacoGx.html
+
 ## Misc
 
 - Using permutations, the recommended threshold was recently increased to $2.4 \times 10^{-7}$ for the 450K array and $3.6 \times 10^{-8}$ for genome-wide measurements. From Saffari A, Silver MJ, Zavattari P, Moi L, Columbano A, Meaburn EL, et al. Estimation of a significance threshold for epigenome-wide association studies. Genet Epidemiol. 2018;42(1):20-33.
