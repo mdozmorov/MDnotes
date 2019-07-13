@@ -71,6 +71,9 @@ Notes and tools that don't fit into other notes.
 
 - `fastq-pair` - Match up paired end fastq files quickly and efficiently. https://github.com/linsalrob/fastq-pair
 
+- `GenomicScores` - store and access genomewide position-specific scores, like conservation scores. https://bioconductor.org/packages/release/bioc/vignettes/GenomicScores/inst/doc/GenomicScores.html
+
+
 ## Text mining
 
 - `Adjutant` - Pubmed articles analysis, word cloud, topic clustering. https://github.com/amcrisan/Adjutant
