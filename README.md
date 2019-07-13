@@ -114,7 +114,7 @@ Notes and tools that don't fit into other notes.
 
 - GitHub Classroom tutorials for teachers https://github.com/jfiksel/github-classroom-for-teachers and students https://github.com/jfiksel/github-classroom-for-students
 
-- RStudio Cloud - shared projects, assignments, private spaces. Guide, https://rstudio.cloud/learn/guide, and the main page, https://rstudio.cloud/
+- RStudio Cloud - shared projects, assignments, private spaces. Guide, https://rstudio.cloud/learn/guide, and the main page, https://rstudio.cloud/. "RStudio Cloud in the Classroom" - webinar on using RStudio Cloud.
 
 ## Lab notes
 
