@@ -121,6 +121,8 @@ Notes and tools that don't fit into other notes.
 
 ## Lab notes
 
+- `awesome-expectations` - Examples of academic labs with explicitly stated expectations of themselves and their mentees in the form of written lab manuals. https://github.com/olgabot/awesome-expectations
+
 ### Notes from Jeff Leek
 
 - Writing your first academic paper, https://github.com/jtleek/firstpaper
