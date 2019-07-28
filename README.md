@@ -66,6 +66,8 @@ Notes and tools that don't fit into other notes.
 
 - `bamcov`, Quickly calculate and visualize sequence coverage in alignment files in command line. https://github.com/fbreitwieser/bamcov
 
+- `bamcount` - BigWig and BAM utilities, coverage, by Ben Langmead. https://github.com/BenLangmead/bamcount
+
 - `cgpBigWig` - Package of C scripts for generation of BigWig coverage files. https://github.com/cancerit/cgpBigWig
 
 - `indexcov` - Quickly estimate coverage from a whole-genome bam or cram index. https://github.com/brentp/goleft/tree/master/indexcov
