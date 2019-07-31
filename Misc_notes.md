@@ -55,7 +55,9 @@ Notes and tools that don't fit into other notes.
 
 - http://www.pharmaco-mir.org/ - miRNA-drug associations
 
+- `microRNAome` - read counts for microRNAs across tissues, cell-types, and cancer cell-lines. https://bioconductor.org/packages/devel/data/experiment/html/microRNAome.html
 
+- `miRNAmeConverter` - Convert miRNA Names to Different miRBase Versions. [https://bioconductor.org/packages/release/bioc/html/miRNAmeConverter.html](https://bioconductor.org/packages/release/bioc/html/miRNAmeConverter.html)
 
 ## Text mining
 
