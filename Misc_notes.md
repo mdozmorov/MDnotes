@@ -3,6 +3,7 @@
 Notes and tools that don't fit into other notes.
 
 * [Genes](#genes)
+* [miRNA](#mirna)
 * [Sequencing](#sequencing)
 * [Text mining](#text-mining)
 * [Clustering and visualization](#clustering-and-visualization)
