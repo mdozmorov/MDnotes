@@ -2,9 +2,9 @@
 
 Notes and tools that don't fit into other notes.
 
+* [Sequencing](#sequencing)
 * [Genes](#genes)
 * [miRNA](#mirna)
-* [Sequencing](#sequencing)
 * [Text mining](#text-mining)
 * [Clustering and visualization](#clustering-and-visualization)
 * [Integrative](#integrative)
@@ -15,25 +15,6 @@ Notes and tools that don't fit into other notes.
   * [Notes from Jeff Leek](#notes-from-jeff-leek)
 * [Data](#data)
 * [Misc](#misc)
-
-## Genes
-
-- List of gene lists for genomic analyses. https://github.com/macarthur-lab/gene_lists
-- Python package for interacting with SRAdb and downloading datasets from SRA, https://github.com/saketkc/pysradb, documentation, https://www.saket-choudhary.me/pysradb/
-- Extract 3'UTR, 5'UTR, CDS, Promoter, Genes, Introns etc from GTF files, https://github.com/saketkc/gencode_regions
-- Extract intron boundaries per transcript, https://gist.github.com/hiraksarkar/ce8a71a6953cb4e9823d868c283bf99d
-- `CHESS` - database of novel genes, identified from GTeX data, protein-coding and lncRNA. http://ccb.jhu.edu/chess/
-- GTEx Visualizations https://gtexportal.org, https://github.com/broadinstitute/gtex-viz
-- Chromosome visualization with D3.js, ideogram. https://github.com/eweitz/ideogram. Wrappers for various languages, including R, https://github.com/freestatman/ideogRam. Examples, https://eweitz.github.io/ideogram/
-- OGEE, Online GEne Essentiality database for multiple organisms, including human and mouse. http://ogee.medgenius.info/browse/
-- HGNChelper - Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols. https://waldronlab.io/HGNChelper/
-- Enhancer-promoter (EP) pairs from Thurman et al., (2012) were obtained from: ftp://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/dhs_gene_connectivity/genomewideCorrs_above0.7_promoterPlusMinus500kb_withGeneNames_32celltypeCategories.bed8.gz
-
-
-## miRNA
-
-- http://www.pharmaco-mir.org/ - miRNA-drug associations
-
 
 ## Sequencing
 
@@ -55,6 +36,25 @@ Notes and tools that don't fit into other notes.
 - `fastq-pair` - Match up paired end fastq files quickly and efficiently. https://github.com/linsalrob/fastq-pair
 
 - `GenomicScores` - store and access genomewide position-specific scores, like conservation scores. https://bioconductor.org/packages/release/bioc/vignettes/GenomicScores/inst/doc/GenomicScores.html
+
+## Genes
+
+- List of gene lists for genomic analyses. https://github.com/macarthur-lab/gene_lists
+- Python package for interacting with SRAdb and downloading datasets from SRA, https://github.com/saketkc/pysradb, documentation, https://www.saket-choudhary.me/pysradb/
+- Extract 3'UTR, 5'UTR, CDS, Promoter, Genes, Introns etc from GTF files, https://github.com/saketkc/gencode_regions
+- Extract intron boundaries per transcript, https://gist.github.com/hiraksarkar/ce8a71a6953cb4e9823d868c283bf99d
+- `CHESS` - database of novel genes, identified from GTeX data, protein-coding and lncRNA. http://ccb.jhu.edu/chess/
+- GTEx Visualizations https://gtexportal.org, https://github.com/broadinstitute/gtex-viz
+- Chromosome visualization with D3.js, ideogram. https://github.com/eweitz/ideogram. Wrappers for various languages, including R, https://github.com/freestatman/ideogRam. Examples, https://eweitz.github.io/ideogram/
+- OGEE, Online GEne Essentiality database for multiple organisms, including human and mouse. http://ogee.medgenius.info/browse/
+- HGNChelper - Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols. https://waldronlab.io/HGNChelper/
+- Enhancer-promoter (EP) pairs from Thurman et al., (2012) were obtained from: ftp://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/dhs_gene_connectivity/genomewideCorrs_above0.7_promoterPlusMinus500kb_withGeneNames_32celltypeCategories.bed8.gz
+
+
+## miRNA
+
+- http://www.pharmaco-mir.org/ - miRNA-drug associations
+
 
 
 ## Text mining
