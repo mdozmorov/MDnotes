@@ -131,3 +131,4 @@ Notes and tools that don't fit into other notes.
 
 - https://goodekat.github.io/ggResidpanel/ - ggResidpanel is an R package for creating panels of diagnostic plots for a model using ggplot2 and interactive versions of the plots using plotly.
 
+- Fast ICD-10 and ICD-9 comorbidities, decoding and validation in R https://jackwasey.github.io/icd/, https://github.com/jackwasey/icd
