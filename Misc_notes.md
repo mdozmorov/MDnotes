@@ -8,7 +8,6 @@ Notes and tools that don't fit into other notes.
 * [Text mining](#text-mining)
 * [Clustering and visualization](#clustering-and-visualization)
 * [Integrative](#integrative)
-* [Machine learning](#machine-learning)
 * [Image analysis](#image-analysis)
 * [Teaching](#teaching)
 * [Lab notes](#lab-notes)
@@ -81,15 +80,6 @@ Notes and tools that don't fit into other notes.
     - Lock, Eric F., Katherine A. Hoadley, J. S. Marron, and Andrew B. Nobel. “JOINT AND INDIVIDUAL VARIATION EXPLAINED (JIVE) FOR INTEGRATED ANALYSIS OF MULTIPLE DATA TYPES.” The Annals of Applied Statistics 7, no. 1 (March 1, 2013): 523–42. https://doi.org/10.1214/12-AOAS597.
 
 - List of software packages for multi-omics analysis, by Mike Love. https://github.com/mikelove/awesome-multi-omics. Slides for the talk "Assessing consistency of unsupervised multi-omics methods". https://docs.google.com/presentation/d/1QAaweEc32JzhWHl7YenLdT9w8JUjwaTExe_uve2s22U/edit#slide=id.p
-
-## Machine learning
-
-- `janggu` - Janggu is a python package that facilitates deep learning in the context of genomics. FASTA/BAM/BIGWIG/BED/GFF as input, trained neural network for classification as an output. [https://github.com/BIMSBbioinfo/janggu](https://github.com/BIMSBbioinfo/janggu)
-
-- `maui` - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. https://github.com/bimsbbioinfo/maui
-    - Ronen, Jonathan, Sikander Hayat, and Altuna Akalin. “Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning,” November 12, 2018. https://doi.org/10.1101/464743.
-
-- "Gradient Boosting Essentials in R Using XGBOOST", http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/
 
 ## Image analysis
 
