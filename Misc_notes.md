@@ -18,6 +18,9 @@ Notes and tools that don't fit into other notes.
 
 ## Sequencing
 
+- `SequencEnG` - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers.http://education.knoweng.org/sequenceng/
+    - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
+
 - Which human reference genome to use? https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use
 
 - Long list of bioinformatics tools developed by IHEC Int'l Human Epigenome Consortium researchers, http://ihec-epigenomes.org/research/tools/
