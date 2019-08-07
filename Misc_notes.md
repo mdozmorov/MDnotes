@@ -98,6 +98,7 @@ Notes and tools that don't fit into other notes.
 
 - The Engauge Digitizer tool accepts image files (like PNG, JPEG and TIFF) containing graphs, and recovers the data points from those graphs. http://markummitchell.github.io/engauge-digitizer/
 
+- Medical image analysis framework merging ANTsR and deep learning. A collection of deep learning architectures ported to the R language and tools for basic medical image processing. Based on keras and tensorflow with cross-compatibility with our python analog ANTsPyNet. https://github.com/ANTsX/ANTsRNet
 
 ## Teaching
 
