@@ -145,3 +145,6 @@ Notes and tools that don't fit into other notes.
 
 - https://goodekat.github.io/ggResidpanel/ - ggResidpanel is an R package for creating panels of diagnostic plots for a model using ggplot2 and interactive versions of the plots using plotly.
 
+- Easily generate information-rich, publication-quality tables from R https://gt.rstudio.com, https://github.com/rstudio/gt
+- Presentation-Ready Data Summary and Analytic Result Tables http://www.danieldsjoberg.com/gtsummary, https://github.com/ddsjoberg/gtsummary
+
