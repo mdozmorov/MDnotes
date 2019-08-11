@@ -108,6 +108,8 @@ Notes and tools that don't fit into other notes.
 
 - RStudio Cloud - shared projects, assignments, private spaces. Guide, https://rstudio.cloud/learn/guide, and the main page, https://rstudio.cloud/. "RStudio Cloud in the Classroom" - webinar on using RStudio Cloud.
 
+- Wilson, Greg. “Ten Quick Tips for Creating an Effective Lesson.” PLoS Computational Biology 15, no. 4 (April 2019): e1006915. https://doi.org/10.1371/journal.pcbi.1006915. - Guide for effective teaching, learning principles, tips for creating lessons. Define your audience, spread and mix topics, formulate problems, make summaries, appeal to visual and linguistic learning channels, identify and correct learner's mistakes, motivate and avoid demotivation, be inclusive.
+
 ## Lab notes
 
 - `awesome-expectations` - Examples of academic labs with explicitly stated expectations of themselves and their mentees in the form of written lab manuals. https://github.com/olgabot/awesome-expectations
