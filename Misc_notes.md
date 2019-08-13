@@ -69,6 +69,8 @@ Notes and tools that don't fit into other notes.
 
 - Where to get Twitter data for academic research, blog post by Justin Littman, https://gwu-libraries.github.io/sfm-ui/posts/2017-09-14-twitter-data. Collecting, Analysing and Sharing Twitter Data, blog post by Serah Rono, http://okfnlabs.org/blog/2018/03/08/open-data-day-tweets.html
 
+- Julia's implementation of word2vec in R https://word2vec.news-r.org, https://github.com/news-r/word2vec.r
+
 ## Clustering and visualization
 
 - `circlize` - Circular visualization in R, https://github.com/jokergoo/circlize
