@@ -52,6 +52,8 @@ Notes and tools that don't fit into other notes.
 - OGEE, Online GEne Essentiality database for multiple organisms, including human and mouse. http://ogee.medgenius.info/browse/
 - HGNChelper - Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols. https://waldronlab.io/HGNChelper/
 - Enhancer-promoter (EP) pairs from Thurman et al., (2012) were obtained from: ftp://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/dhs_gene_connectivity/genomewideCorrs_above0.7_promoterPlusMinus500kb_withGeneNames_32celltypeCategories.bed8.gz
+- `CREEDS` - database of manually (and automatically) extracted gene signatures. Single gene perturbations, disease signatures, single drug perturbations. Batch effect correction, when necessary. Overall, good agreement with MSigDb C2. Characteristic Direction (CD) method to detect differential genes. Browse and download data at https://amp.pharm.mssm.edu/creeds/, API access in R, http://rpubs.com/wangz10/177826
+    - Wang, Zichen, Caroline D. Monteiro, Kathleen M. Jagodnik, Nicolas F. Fernandez, Gregory W. Gundersen, Andrew D. Rouillard, Sherry L. Jenkins, et al. “Extraction and Analysis of Signatures from the Gene Expression Omnibus by the Crowd.” Nature Communications 7, no. 1 (November 2016). https://doi.org/10.1038/ncomms12846.
 
 
 ## miRNA
