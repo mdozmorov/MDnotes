@@ -17,6 +17,9 @@ Notes and tools that don't fit into other notes.
 
 ## Sequencing
 
+- `SequencEnG` - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers.http://education.knoweng.org/sequenceng/
+    - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
+
 - Which human reference genome to use? https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use
 
 - Long list of bioinformatics tools developed by IHEC Int'l Human Epigenome Consortium researchers, http://ihec-epigenomes.org/research/tools/
@@ -50,6 +53,8 @@ Notes and tools that don't fit into other notes.
 - OGEE, Online GEne Essentiality database for multiple organisms, including human and mouse. http://ogee.medgenius.info/browse/
 - HGNChelper - Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols. https://waldronlab.io/HGNChelper/
 - Enhancer-promoter (EP) pairs from Thurman et al., (2012) were obtained from: ftp://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/dhs_gene_connectivity/genomewideCorrs_above0.7_promoterPlusMinus500kb_withGeneNames_32celltypeCategories.bed8.gz
+- `CREEDS` - database of manually (and automatically) extracted gene signatures. Single gene perturbations, disease signatures, single drug perturbations. Batch effect correction, when necessary. Overall, good agreement with MSigDb C2. Characteristic Direction (CD) method to detect differential genes. Browse and download data at https://amp.pharm.mssm.edu/creeds/, API access in R, http://rpubs.com/wangz10/177826
+    - Wang, Zichen, Caroline D. Monteiro, Kathleen M. Jagodnik, Nicolas F. Fernandez, Gregory W. Gundersen, Andrew D. Rouillard, Sherry L. Jenkins, et al. “Extraction and Analysis of Signatures from the Gene Expression Omnibus by the Crowd.” Nature Communications 7, no. 1 (November 2016). https://doi.org/10.1038/ncomms12846.
 
 
 ## miRNA
@@ -66,6 +71,8 @@ Notes and tools that don't fit into other notes.
     - Crisan, Anamaria, Tamara Munzner, and Jennifer L Gardy. “Adjutant: An R-Based Tool to Support Topic Discovery for Systematic and Literature Reviews.” Edited by Jonathan Wren. Bioinformatics, August 23, 2018. https://doi.org/10.1093/bioinformatics/bty722.
 
 - Where to get Twitter data for academic research, blog post by Justin Littman, https://gwu-libraries.github.io/sfm-ui/posts/2017-09-14-twitter-data. Collecting, Analysing and Sharing Twitter Data, blog post by Serah Rono, http://okfnlabs.org/blog/2018/03/08/open-data-day-tweets.html
+
+- Julia's implementation of word2vec in R https://word2vec.news-r.org, https://github.com/news-r/word2vec.r
 
 ## Clustering and visualization
 
@@ -87,6 +94,7 @@ Notes and tools that don't fit into other notes.
 
 - The Engauge Digitizer tool accepts image files (like PNG, JPEG and TIFF) containing graphs, and recovers the data points from those graphs. http://markummitchell.github.io/engauge-digitizer/
 
+- Medical image analysis framework merging ANTsR and deep learning. A collection of deep learning architectures ported to the R language and tools for basic medical image processing. Based on keras and tensorflow with cross-compatibility with our python analog ANTsPyNet. https://github.com/ANTsX/ANTsRNet
 
 ## Teaching
 
@@ -96,7 +104,11 @@ Notes and tools that don't fit into other notes.
 
 - RStudio Cloud - shared projects, assignments, private spaces. Guide, https://rstudio.cloud/learn/guide, and the main page, https://rstudio.cloud/. "RStudio Cloud in the Classroom" - webinar on using RStudio Cloud.
 
+- Wilson, Greg. “Ten Quick Tips for Creating an Effective Lesson.” PLoS Computational Biology 15, no. 4 (April 2019): e1006915. https://doi.org/10.1371/journal.pcbi.1006915. - Guide for effective teaching, learning principles, tips for creating lessons. Define your audience, spread and mix topics, formulate problems, make summaries, appeal to visual and linguistic learning channels, identify and correct learner's mistakes, motivate and avoid demotivation, be inclusive.
+
 ## Lab notes
+
+- Nature collection of articles on Research leadership, https://www.nature.com/collections/cigjfacfbg
 
 - `awesome-expectations` - Examples of academic labs with explicitly stated expectations of themselves and their mentees in the form of written lab manuals. https://github.com/olgabot/awesome-expectations
 
@@ -134,3 +146,7 @@ Notes and tools that don't fit into other notes.
 - https://goodekat.github.io/ggResidpanel/ - ggResidpanel is an R package for creating panels of diagnostic plots for a model using ggplot2 and interactive versions of the plots using plotly.
 
 - Fast ICD-10 and ICD-9 comorbidities, decoding and validation in R https://jackwasey.github.io/icd/, https://github.com/jackwasey/icd
+
+- Easily generate information-rich, publication-quality tables from R https://gt.rstudio.com, https://github.com/rstudio/gt
+- Presentation-Ready Data Summary and Analytic Result Tables http://www.danieldsjoberg.com/gtsummary, https://github.com/ddsjoberg/gtsummary
+
