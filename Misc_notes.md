@@ -27,6 +27,8 @@ Notes and tools that don't fit into other notes.
 
 - `bamcount` - BigWig and BAM utilities, coverage, by Ben Langmead. https://github.com/BenLangmead/bamcount
 
+- `bigwig-nim` - single static binary + liberal license of tool to convert bed to bigwig (and back) and get fast coverage stats from bigwig, by Brent Pedersen, https://github.com/brentp/bigwig-nim, [Source](https://twitter.com/brent_p/status/1162765386548305923?s=03)
+
 - `cgpBigWig` - Package of C scripts for generation of BigWig coverage files. https://github.com/cancerit/cgpBigWig
 
 - `indexcov` - Quickly estimate coverage from a whole-genome bam or cram index. https://github.com/brentp/goleft/tree/master/indexcov
