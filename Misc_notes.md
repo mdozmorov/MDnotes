@@ -150,3 +150,4 @@ Notes and tools that don't fit into other notes.
 - Easily generate information-rich, publication-quality tables from R https://gt.rstudio.com, https://github.com/rstudio/gt
 - Presentation-Ready Data Summary and Analytic Result Tables http://www.danieldsjoberg.com/gtsummary, https://github.com/ddsjoberg/gtsummary
 
+- Screencast keystrokes, record. https://twitter.com/dataandme/status/1163821213334102016?s=03
