@@ -74,6 +74,8 @@ Notes and tools that don't fit into other notes.
 
 - Julia's implementation of word2vec in R https://word2vec.news-r.org, https://github.com/news-r/word2vec.r
 
+- Text Extraction, Rendering and Converting of PDF Documents https://docs.ropensci.org/pdftools, https://github.com/ropensci/pdftools
+
 ## Clustering and visualization
 
 - `circlize` - Circular visualization in R, https://github.com/jokergoo/circlize
