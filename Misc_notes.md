@@ -110,6 +110,8 @@ Notes and tools that don't fit into other notes.
 
 ## Lab notes
 
+- Lists of format-free journals, journals conforming to Your Paper Your Way (YPYW) initiative, the bioRxiv to journals or peer review services (B2J) initiative. https://asntech.github.io/format-free-journals/
+
 - Nature collection of articles on Research leadership, https://www.nature.com/collections/cigjfacfbg
 
 - `awesome-expectations` - Examples of academic labs with explicitly stated expectations of themselves and their mentees in the form of written lab manuals. https://github.com/olgabot/awesome-expectations
