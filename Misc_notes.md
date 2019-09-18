@@ -110,6 +110,8 @@ Notes and tools that don't fit into other notes.
 
 ## Lab notes
 
+- 10 ingredients for a successful supervisor/PhD student relationship. https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship
+
 - Lists of format-free journals, journals conforming to Your Paper Your Way (YPYW) initiative, the bioRxiv to journals or peer review services (B2J) initiative. https://asntech.github.io/format-free-journals/
 
 - Nature collection of articles on Research leadership, https://www.nature.com/collections/cigjfacfbg
