@@ -110,6 +110,8 @@ Notes and tools that don't fit into other notes.
 
 ## Lab notes
 
+- The PI spectrum, by Jean Fan. https://jean.fan/2019/05/09/pi-spectrum.html
+
 - 10 ingredients for a successful supervisor/PhD student relationship. https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship
 
 - Lists of format-free journals, journals conforming to Your Paper Your Way (YPYW) initiative, the bioRxiv to journals or peer review services (B2J) initiative. https://asntech.github.io/format-free-journals/
