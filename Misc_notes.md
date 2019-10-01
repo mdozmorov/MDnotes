@@ -76,6 +76,8 @@ Notes and tools that don't fit into other notes.
 
 - Text Extraction, Rendering and Converting of PDF Documents https://docs.ropensci.org/pdftools, https://github.com/ropensci/pdftools
 
+- Tesseract OCR engine in R, https://cran.r-project.org/web/packages/tesseract/vignettes/intro.html
+
 ## Clustering and visualization
 
 - `circlize` - Circular visualization in R, https://github.com/jokergoo/circlize
