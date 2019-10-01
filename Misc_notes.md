@@ -112,6 +112,8 @@ Notes and tools that don't fit into other notes.
 
 ## Lab notes
 
+- [Applicant_note.md](Applicant_note.md) - Advice to PhD student/post-doc applicants. [Source](https://twitter.com/davidsuter_epfl/status/1141959559654846464?s=20), [Code to extract text](https://gist.github.com/mdozmorov/eb9f8fbca57888fa6481be3d07441827)
+
 - The PI spectrum, by Jean Fan. https://jean.fan/2019/05/09/pi-spectrum.html
 
 - 10 ingredients for a successful supervisor/PhD student relationship. https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship
