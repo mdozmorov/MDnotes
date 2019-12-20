@@ -11,7 +11,6 @@ Notes and tools that don't fit into other notes.
 * [Teaching](#teaching)
 * [Lab notes](#lab-notes)
   * [Notes from Jeff Leek](#notes-from-jeff-leek)
-* [Data](#data)
 * [Misc](#misc)
 
 ## Sequencing
@@ -129,19 +128,6 @@ Notes and tools that don't fit into other notes.
 - The Leek group guide to genomics papers, https://github.com/jtleek/genomicspapers
 
 - Writing reviews of academic papers, https://github.com/jtleek/reviews
-
-
-## Data
-
-- CORGIS Datasets Project - The Collection of Really Great, Interesting, Situated Datasets. https://think.cs.vt.edu/corgis/
-
--  Inter-university Consortium for Political and Social Research (ICPSR) provides leadership and training in data access, curation, and methods of analysis for the social science research community. https://www.icpsr.umich.edu/icpsrweb/ICPSR/
-
-- Google dataset search, https://toolbox.google.com/datasetsearch. Overview, https://www.blog.google/products/search/making-it-easier-discover-datasets/
-
-- U.S. General Services Administration. 2018. The home of the U.S. Government’s open data. https://www.data.gov/
-
-- `PharmacoGx` - Analysis of Large-Scale Pharmacogenomic Data, https://bioconductor.org/packages/release/bioc/html/PharmacoGx.html
 
 ## Misc
 
