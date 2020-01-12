@@ -39,6 +39,9 @@ Notes and tools that don't fit into other notes.
 
 - `GenomicScores` - store and access genomewide position-specific scores, like conservation scores. https://bioconductor.org/packages/release/bioc/vignettes/GenomicScores/inst/doc/GenomicScores.html
 
+- Illumina Instrument Type from fastq, https://www.biostars.org/p/198143/
+
+
 ## Genes
 
 - List of gene lists for genomic analyses. https://github.com/macarthur-lab/gene_lists
