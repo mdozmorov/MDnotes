@@ -68,6 +68,8 @@ Notes and tools that don't fit into other notes.
 
 ## Text mining
 
+- `rentrez` - Access NCIB databases, including PubMed, from R. https://github.com/ropensci/rentrez
+
 - `PubScore` - Automatic calculation of literature relevance of genes, https://bioconductor.org/packages/devel/bioc/html/PubScore.html
 
 - `Adjutant` - Pubmed articles analysis, word cloud, topic clustering. https://github.com/amcrisan/Adjutant
