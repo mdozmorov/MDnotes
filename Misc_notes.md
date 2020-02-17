@@ -110,6 +110,8 @@ Notes and tools that don't fit into other notes.
 
 ## Lab notes
 
+- Mega list of 1 on 1 meeting questions compiled from a variety to sources, https://github.com/VGraupera/1on1-questions
+
 - Rules for good lab environment: promote the well-being of all, allow schedule flexibility, show gratitude, treat all like teammates, foster collaborative environment, adjust to unique needs of everyone, respect official off-work days, acknowledge achievements, accept failure and celebrate success, promote the professional development. Twitter thread: https://twitter.com/ftmaestre/status/1053154881077415936
     - Maestre, Fernando T. “Ten Simple Rules towards Healthier Research Labs.” Edited by Fran Lewitter. PLOS Computational Biology 15, no. 4 (April 11, 2019): e1006914. https://doi.org/10.1371/journal.pcbi.1006914.
 
