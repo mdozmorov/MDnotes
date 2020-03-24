@@ -121,7 +121,7 @@ Notes and tools that don't fit into other notes.
 
 - The PI spectrum, by Jean Fan. https://jean.fan/2019/05/09/pi-spectrum.html
 - JEFworks Lab Transparency in Resource Allocation. https://jef.works/assets/docs/transparency
-
+- JEFworks A Guide to Scientific Peer Review. https://jef.works/blog/2020/03/23/a-guide-to-scientific-peer-review/
 
 - 10 ingredients for a successful supervisor/PhD student relationship. https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship
 
