@@ -133,13 +133,11 @@ Notes and tools that don't fit into other notes.
 
 ### Notes from Jeff Leek
 
-- Writing your first academic paper, https://github.com/jtleek/firstpaper
-
-- Reading academic papers, https://github.com/jtleek/readingpapers
-
-- The Leek group guide to genomics papers, https://github.com/jtleek/genomicspapers
-
-- Writing reviews of academic papers, https://github.com/jtleek/reviews
+- [Writing your first academic paper](https://github.com/jtleek/firstpaper)
+- [Reading academic papers](https://github.com/jtleek/readingpapers)
+- [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)
+- [Writing reviews of academic papers](https://github.com/jtleek/reviews)
+- [Advanced Data Science knowledge and skills](https://github.com/jtleek/ads2020)
 
 ## Misc
 
