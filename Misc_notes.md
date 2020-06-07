@@ -141,6 +141,8 @@ Notes and tools that don't fit into other notes.
 
 ## Misc
 
+- [Twitter-based Poster Session](http://photonicsonlinemeetup.org/poster-session/) - [instructions](http://photonicsonlinemeetup.org/wp-content/uploads/2020/04/Guidelines-for-poster-presentations.pdf) for organizing virtual poster session, and the [PPT template](http://photonicsonlinemeetup.org/wp-content/uploads/2020/04/poster-template.pptx) for making a 4-panel poster that [looks good on Twitter](http://photonicsonlinemeetup.org/wp-content/uploads/2020/04/poster-example.pdf). Created by [@PhotonicsMeetup](https://twitter.com/photonicsmeetup?lang=en)
+
 - `googledrive` - an R package interface to Google Drive. https://googledrive.tidyverse.org. Alternative: Google Drive direct download of big files, https://github.com/circulosmeos/gdown.pl
 
 - Using permutations, the recommended threshold was recently increased to $2.4 \times 10^{-7}$ for the 450K array and $3.6 \times 10^{-8}$ for genome-wide measurements. From Saffari A, Silver MJ, Zavattari P, Moi L, Columbano A, Meaburn EL, et al. Estimation of a significance threshold for epigenome-wide association studies. Genet Epidemiol. 2018;42(1):20-33.
