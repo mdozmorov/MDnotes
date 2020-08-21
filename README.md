@@ -82,6 +82,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Misc
 
+- [AnnoRxver](https://greenelab.github.io/annorxiver-journal-recommender/) Journal Recommender for biorXiv preprints. [GitHub](https://github.com/greenelab/annorxiver-journal-recommender)
+
 - [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use) - differences between genome assemblies
 
 - [Twitter-based Poster Session](http://photonicsonlinemeetup.org/poster-session/) - [instructions](http://photonicsonlinemeetup.org/wp-content/uploads/2020/04/Guidelines-for-poster-presentations.pdf) for organizing virtual poster session, and the [PPT template](http://photonicsonlinemeetup.org/wp-content/uploads/2020/04/poster-template.pptx) for making a 4-panel poster that [looks good on Twitter](http://photonicsonlinemeetup.org/wp-content/uploads/2020/04/poster-example.pdf). Created by [@PhotonicsMeetup](https://twitter.com/photonicsmeetup?lang=en)
