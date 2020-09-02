@@ -74,6 +74,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 - [awesome-expectations](https://github.com/olgabot/awesome-expectations) - Examples of academic labs with explicitly stated expectations of themselves and their mentees in the form of written lab manuals, by Olga Botvinnik
 
+- [ICMJE authorship guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)
+
 ### Notes from Jeff Leek
 
 - [Writing your first academic paper](https://github.com/jtleek/firstpaper)
