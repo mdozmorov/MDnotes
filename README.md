@@ -78,6 +78,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 - [Advice to graduate students](https://twitter.com/TanentzapfLab/status/1299758784072433664?s=20) tweet with 11 pieces of advice from Tanentzapf Lab
 
+- [Advice to collaborating PIs](https://twitter.com/tladeras/status/1300847276248559616?s=20) by Ted Laderas
+
 ### Notes from Jeff Leek
 
 - [Writing your first academic paper](https://github.com/jtleek/firstpaper)
