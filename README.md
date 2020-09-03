@@ -76,6 +76,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 - [ICMJE authorship guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)
 
+- [Advice to graduate students](https://twitter.com/TanentzapfLab/status/1299758784072433664?s=20) tweet with 11 pieces of advice from Tanentzapf Lab
+
 ### Notes from Jeff Leek
 
 - [Writing your first academic paper](https://github.com/jtleek/firstpaper)
