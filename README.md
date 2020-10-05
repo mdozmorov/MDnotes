@@ -53,6 +53,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Lab notes
 
+- [Questions for potential advisors](https://twitter.com/PaolaVFigueroa/status/1312157953550479361?s=20) - questions for students/trainees before joining the lab
+
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) Mega list of 1 on 1 meeting questions compiled from a variety to sources
 
 - Rules for good lab environment: promote the well-being of all, allow schedule flexibility, show gratitude, treat all like teammates, foster collaborative environment, adjust to unique needs of everyone, respect official off-work days, acknowledge achievements, accept failure and celebrate success, promote the professional development. [Twitter thread](https://twitter.com/ftmaestre/status/1053154881077415936)
