@@ -53,6 +53,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Lab notes
 
+- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+
 - [Questions for potential advisors](https://twitter.com/PaolaVFigueroa/status/1312157953550479361?s=20) - questions for students/trainees before joining the lab
 
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) Mega list of 1 on 1 meeting questions compiled from a variety to sources
