@@ -53,6 +53,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Writing, publishing
 
+- [How to write a superb literature review](https://doi.org/10.1038/d41586-020-03422-x)  - Nature, December 4, 2020
+
 - [JEFworks A Guide to Scientific Peer Review](https://jef.works/blog/2020/03/23/a-guide-to-scientific-peer-review/)
 
 - [Lists of format-free journals](https://asntech.github.io/format-free-journals/), journals conforming to Your Paper Your Way (YPYW) initiative, the bioRxiv to journals or peer review services (B2J) initiative
