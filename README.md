@@ -38,6 +38,7 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 # Table of content
 
 * [Teaching](#teaching)
+* [Writing, publishing](#writing-publishing)
 * [Lab notes](#lab-notes)
   * [Notes from Jeff Leek](#notes-from-jeff-leek)
 * [Misc](#misc)
@@ -49,6 +50,23 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 - [RStudio Cloud](https://rstudio.cloud/) - shared projects, assignments, private spaces. [Guide](https://rstudio.cloud/learn/guide)
 
 - Wilson, Greg. “[Ten Quick Tips for Creating an Effective Lesson](https://doi.org/10.1371/journal.pcbi.1006915).” PLoS Computational Biology 15, no. 4 (April 2019) - Guide for effective teaching, learning principles, tips for creating lessons. Define your audience, spread and mix topics, formulate problems, make summaries, appeal to visual and linguistic learning channels, identify and correct learner's mistakes, motivate and avoid demotivation, be inclusive.
+
+## Writing, publishing
+
+- [JEFworks A Guide to Scientific Peer Review](https://jef.works/blog/2020/03/23/a-guide-to-scientific-peer-review/)
+
+- [Lists of format-free journals](https://asntech.github.io/format-free-journals/), journals conforming to Your Paper Your Way (YPYW) initiative, the bioRxiv to journals or peer review services (B2J) initiative
+
+- [ICMJE authorship guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)
+
+### Notes from Jeff Leek
+
+- [Writing your first academic paper](https://github.com/jtleek/firstpaper)
+- [Reading academic papers](https://github.com/jtleek/readingpapers)
+- [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)
+- [Writing reviews of academic papers](https://github.com/jtleek/reviews)
+- [Advanced Data Science knowledge and skills](https://github.com/jtleek/ads2020)
+
 
 
 ## Lab notes
@@ -68,29 +86,15 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 - [The PI spectrum](https://jean.fan/2019/05/09/pi-spectrum.html), by Jean Fan
 
-- [JEFworks A Guide to Scientific Peer Review](https://jef.works/blog/2020/03/23/a-guide-to-scientific-peer-review/)
-
 - [10 ingredients for a successful supervisor/PhD student relationship](https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship)
-
-- [Lists of format-free journals](https://asntech.github.io/format-free-journals/), journals conforming to Your Paper Your Way (YPYW) initiative, the bioRxiv to journals or peer review services (B2J) initiative
 
 - [Nature collection of articles on Research leadership](https://www.nature.com/collections/cigjfacfbg)
 
 - [awesome-expectations](https://github.com/olgabot/awesome-expectations) - Examples of academic labs with explicitly stated expectations of themselves and their mentees in the form of written lab manuals, by Olga Botvinnik
 
-- [ICMJE authorship guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)
-
 - [Advice to graduate students](https://twitter.com/TanentzapfLab/status/1299758784072433664?s=20) tweet with 11 pieces of advice from Tanentzapf Lab
 
 - [Advice to collaborating PIs](https://twitter.com/tladeras/status/1300847276248559616?s=20) by Ted Laderas
-
-### Notes from Jeff Leek
-
-- [Writing your first academic paper](https://github.com/jtleek/firstpaper)
-- [Reading academic papers](https://github.com/jtleek/readingpapers)
-- [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)
-- [Writing reviews of academic papers](https://github.com/jtleek/reviews)
-- [Advanced Data Science knowledge and skills](https://github.com/jtleek/ads2020)
 
 ## Misc
 
