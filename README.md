@@ -102,6 +102,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Misc
 
+- [free-photos](https://github.com/jennybc/free-photos) - Places to find CC0 photos and the like, by Jenny Bryant. Links to websites
+
 - [AnnoRxver](https://greenelab.github.io/annorxiver-journal-recommender/) Journal Recommender for biorXiv preprints. [GitHub](https://github.com/greenelab/annorxiver-journal-recommender)
 
 - [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use) - differences between genome assemblies
