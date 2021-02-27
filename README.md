@@ -21,6 +21,7 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 - [scHi-C notes](https://github.com/mdozmorov/scHiC_notes)
 - [RNA-seq notes](https://github.com/mdozmorov/RNA-seq)
 - [scRNA-seq notes](https://github.com/mdozmorov/scRNA-seq_notes)
+- [scATAC-seq notes](https://github.com/mdozmorov/scATAC-seq_notes)
 - [ChIP-seq notes](https://github.com/mdozmorov/ChIP-seq_notes)
 - [Methylation notes](https://github.com/mdozmorov/Methylation_notes)
 - [SNP notes](https://github.com/mdozmorov/SNP_notes)
