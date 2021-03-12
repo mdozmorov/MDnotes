@@ -105,7 +105,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 - [free-photos](https://github.com/jennybc/free-photos) - Places to find CC0 photos and the like, by Jenny Bryant. Links to websites
 
-- [AnnoRxver](https://greenelab.github.io/annorxiver-journal-recommender/) Journal Recommender for biorXiv preprints. [GitHub](https://github.com/greenelab/annorxiver-journal-recommender)
+- [Preprint similarity search](hhttps://greenelab.github.io/preprint-similarity-search/) Journal Recommender for biorXiv preprints, by GreeneLab. [GitHub](https://greenelab.github.io/preprint-similarity-search/)
+    - Nicholson, David N., Vincent Rubinetti, Dongbo Hu, Marvin Thielk, Lawrence E. Hunter, and Casey S. Greene. “[Linguistic Analysis of the BioRxiv Preprint Landscape](https://doi.org/10.1101/2021.03.04.433874).” Preprint. Bioinformatics, March 4, 2021. 
 
 - [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use) - differences between genome assemblies
 
