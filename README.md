@@ -78,6 +78,10 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Lab notes
 
+- [Seven steps towards health and happiness in the lab](https://www.nature.com/articles/d41586-018-07514-7)
+
+- [10 ingredients for a successful supervisor/PhD student relationship](https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship)
+
 - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 
 - [Questions for potential advisors](https://twitter.com/PaolaVFigueroa/status/1312157953550479361?s=20) - questions for students/trainees before joining the lab
