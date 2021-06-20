@@ -20,13 +20,13 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 # Data science notes
 
+- [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Bioinformatics_notes?style=social" align="center">
+- [Statistics notes](https://github.com/mdozmorov/Statistics_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Statistics_notes?style=social" align="center">
+- [Machine learning notes](https://github.com/mdozmorov/MachineLearning_notes) <img src="https://img.shields.io/github/stars/mdozmorov/MachineLearning_notes?style=social" align="center">
 - [R notes](https://github.com/mdozmorov/R_notes) <img src="https://img.shields.io/github/stars/mdozmorov/R_notes?style=social" align="center">
 - [Python notes](https://github.com/mdozmorov/Python_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Python_notes?style=social" align="center">
 - [Programming notes](https://github.com/mdozmorov/Programming_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Programming_notes?style=social" align="center">
 - [Data notes](https://github.com/mdozmorov/Data_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Data_notes?style=social" align="center">
-- [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Bioinformatics_notes?style=social" align="center">
-- [Statistics notes](https://github.com/mdozmorov/Statistics_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Statistics_notes?style=social" align="center">
-- [Machine learning notes](https://github.com/mdozmorov/MachineLearning_notes) <img src="https://img.shields.io/github/stars/mdozmorov/MachineLearning_notes?style=social" align="center">
 
 # Other notes
 
