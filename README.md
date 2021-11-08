@@ -109,6 +109,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Misc
 
+- `brew update && brew upgrade && brew doctor && brew cleanup` - Optimizing Homebrew
+
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) - Collections of best Mac software.
 
 - [free-photos](https://github.com/jennybc/free-photos) - Places to find CC0 photos and the like, by Jenny Bryant. Links to websites
