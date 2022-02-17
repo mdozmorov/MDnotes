@@ -113,6 +113,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) - Collections of best Mac software.
 
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
+
 - [free-photos](https://github.com/jennybc/free-photos) - Places to find CC0 photos and the like, by Jenny Bryant. Links to websites
 
 - [Preprint similarity search](hhttps://greenelab.github.io/preprint-similarity-search/) Journal Recommender for biorXiv preprints, by GreeneLab. [GitHub](https://greenelab.github.io/preprint-similarity-search/)
