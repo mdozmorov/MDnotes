@@ -117,6 +117,10 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 - [free-photos](https://github.com/jennybc/free-photos) - Places to find CC0 photos and the like, by Jenny Bryant. Links to websites
 
+- [rembg](https://github.com/danielgatis/rembg) - Remove images background. Python, Docker.
+
+- [awesome-air-quality](https://github.com/openaq/awesome-air-quality) - An awesome list of air quality resources.
+
 - [Preprint similarity search](hhttps://greenelab.github.io/preprint-similarity-search/) Journal Recommender for biorXiv preprints, by GreeneLab. [GitHub](https://greenelab.github.io/preprint-similarity-search/)
     - Nicholson, David N., Vincent Rubinetti, Dongbo Hu, Marvin Thielk, Lawrence E. Hunter, and Casey S. Greene. “[Linguistic Analysis of the BioRxiv Preprint Landscape](https://doi.org/10.1101/2021.03.04.433874).” Preprint. Bioinformatics, March 4, 2021. 
 
