@@ -109,6 +109,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Misc
 
+- [opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by [PhonicScore.com](https://phonicscore.com/). [Website](https://opensheetmusicdisplay.org/)
+
 - `brew update && brew upgrade && brew doctor && brew cleanup` - Optimizing Homebrew
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) - Collections of best Mac software.
