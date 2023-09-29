@@ -9,23 +9,23 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 - [scRNA-seq notes](https://github.com/mdozmorov/scRNA-seq_notes) <img src="https://img.shields.io/github/stars/mdozmorov/scRNA-seq_notes?style=social" align="center">
 - [Hi-C tools](https://github.com/mdozmorov/HiC_tools) <img src="https://img.shields.io/github/stars/mdozmorov/HiC_tools?style=social" align="center">
 - [Hi-C data](https://github.com/mdozmorov/HiC_data) <img src="https://img.shields.io/github/stars/mdozmorov/HiC_data?style=social" align="center">
-- [scHi-C notes](https://github.com/mdozmorov/scHiC_notes) <img src="https://img.shields.io/github/stars/mdozmorov/scHiC_notes?style=social" align="center">
 - [Cancer notes](https://github.com/mdozmorov/Cancer_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Cancer_notes?style=social" align="center">
 - [scATAC-seq notes](https://github.com/mdozmorov/scATAC-seq_notes) <img src="https://img.shields.io/github/stars/mdozmorov/scATAC-seq_notes?style=social" align="center">
 - [Immuno notes](https://github.com/mdozmorov/Immuno_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Immuno_notes?style=social" align="center">
-- [RNA-seq notes](https://github.com/mdozmorov/RNA-seq) <img src="https://img.shields.io/github/stars/mdozmorov/RNA-seq?style=social" align="center">
+- [scHi-C notes](https://github.com/mdozmorov/scHiC_notes) <img src="https://img.shields.io/github/stars/mdozmorov/scHiC_notes?style=social" align="center">
 - [ChIP-seq notes](https://github.com/mdozmorov/ChIP-seq_notes) <img src="https://img.shields.io/github/stars/mdozmorov/ChIP-seq_notes?style=social" align="center">
-- [Methylation notes](https://github.com/mdozmorov/Methylation_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Methylation_notes?style=social" align="center">
 - [SNP notes](https://github.com/mdozmorov/SNP_notes) <img src="https://img.shields.io/github/stars/mdozmorov/SNP_notes?style=social" align="center">
+- [RNA-seq notes](https://github.com/mdozmorov/RNA-seq) <img src="https://img.shields.io/github/stars/mdozmorov/RNA-seq?style=social" align="center">
+- [Methylation notes](https://github.com/mdozmorov/Methylation_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Methylation_notes?style=social" align="center">
 
 # Data science notes
 
 - [Machine learning notes](https://github.com/mdozmorov/MachineLearning_notes) <img src="https://img.shields.io/github/stars/mdozmorov/MachineLearning_notes?style=social" align="center">
-- [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Bioinformatics_notes?style=social" align="center">
 - [Statistics notes](https://github.com/mdozmorov/Statistics_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Statistics_notes?style=social" align="center">
+- [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Bioinformatics_notes?style=social" align="center">
 - [R notes](https://github.com/mdozmorov/R_notes) <img src="https://img.shields.io/github/stars/mdozmorov/R_notes?style=social" align="center">
-- [Python notes](https://github.com/mdozmorov/Python_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Python_notes?style=social" align="center">
 - [Programming notes](https://github.com/mdozmorov/Programming_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Programming_notes?style=social" align="center">
+- [Python notes](https://github.com/mdozmorov/Python_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Python_notes?style=social" align="center">
 - [Data notes](https://github.com/mdozmorov/Data_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Data_notes?style=social" align="center">
 
 # Other notes
