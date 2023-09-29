@@ -30,10 +30,10 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 # Other notes
 
+- [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) <img src="https://img.shields.io/github/stars/mdozmorov/MDmisc_notes?style=social" align="center"> (this repository)
 - [Job notes](https://github.com/mdozmorov/Jobs_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Jobs_notes?style=social" align="center">
 - [Conference notes](https://github.com/mdozmorov/Conference_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Conference_notes?style=social" align="center">
 - [Grants notes](https://github.com/mdozmorov/Grants_notes) <img src="https://img.shields.io/github/stars/mdozmorov/Grants_notes?style=social" align="center">
-- [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) <img src="https://img.shields.io/github/stars/mdozmorov/MDmisc_notes?style=social" align="center"> (this repository)
 
 
 # Table of content
