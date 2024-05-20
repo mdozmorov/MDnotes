@@ -48,6 +48,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 - GitHub Classroom tutorials [for teachers](https://github.com/jfiksel/github-classroom-for-teachers) and [students](https://github.com/jfiksel/github-classroom-for-students)
 
+- [OTTR](https://www.ottrproject.org/) - GitHub sites and courses for busy people
+
 - [RStudio Cloud](https://rstudio.cloud/) - shared projects, assignments, private spaces. [Guide](https://rstudio.cloud/learn/guide)
 
 - Wilson, Greg. “[Ten Quick Tips for Creating an Effective Lesson](https://doi.org/10.1371/journal.pcbi.1006915).” PLoS Computational Biology 15, no. 4 (April 2019) - Guide for effective teaching, learning principles, tips for creating lessons. Define your audience, spread and mix topics, formulate problems, make summaries, appeal to visual and linguistic learning channels, identify and correct learner's mistakes, motivate and avoid demotivation, be inclusive.
