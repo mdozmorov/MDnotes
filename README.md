@@ -46,6 +46,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Teaching
 
+- [Glittr.org](https://glittr.org/) - Git repositories with educational materials for the computational live sciences
+
 - GitHub Classroom tutorials [for teachers](https://github.com/jfiksel/github-classroom-for-teachers) and [students](https://github.com/jfiksel/github-classroom-for-students)
 
 - [OTTR](https://www.ottrproject.org/) - GitHub sites and courses for busy people
