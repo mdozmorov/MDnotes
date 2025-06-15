@@ -117,6 +117,8 @@ Various notes collected over the years. Please, [contribute and get in touch](CO
 
 ## Misc
 
+- [Heavy Metal 101](https://metal.mit.edu/) - MIT Heavy metal course. [OpenCourseWare](https://ocw.mit.edu/courses/res-21m-001-heavy-metal-101-january-iap-2025/), [video archive](https://metal.mit.edu/class-archive/)
+
 - [github-rank](https://github.com/jaywcjlove/github-rank) - Github China/Global [User Ranking](https://wangchujiang.com/github-rank/), Global Warehouse [Star Ranking](https://wangchujiang.com/github-rank/repos.html). 
 
 - [great-puzzles](https://github.com/sharkdp/great-puzzles) - A curated list of great puzzles
